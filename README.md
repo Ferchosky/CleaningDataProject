@@ -16,7 +16,8 @@ The goal of this project is to summarize the means and standard deviations of se
 4. Merge the data sets
 5. Create a new, tidy data set with the average of the variables of the merged data set, conditiones on the activity and the subject ID
 
-## Input (description taken from the original README.txt at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip):
+## Input 
+(description taken from the original README.txt at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip):
 - features.txt: List of all features.
 - activity_labels.txt: Links the class labels with their activity name.
 - train/X_train.txt: Training set.
@@ -24,7 +25,8 @@ The goal of this project is to summarize the means and standard deviations of se
 - test/X_test.txt: Test set.
 - test/y_test.txt: Test labels.
 
-## Output: a tidy data set (separated by spaces) with 180 observations of 75 variables. The first two are the activities and subject ID, the next 73 are the average of the means and standard deviations of the measures (check CodeBook.md for more details).
+## Output:
+a tidy data set (separated by spaces) with 180 observations of 75 variables. The first two are the activities and subject ID, the next 73 are the average of the means and standard deviations of the measures (check CodeBook.md for more details).
 - tidyDataset.txt
 
 ## R Scripts
