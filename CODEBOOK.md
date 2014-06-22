@@ -6,9 +6,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### VARIABLES
 
-## Activity (categorical variable):## describes  activity was doing the subject when the measure was taken. The activities are the following: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS and WALKING_UPSTAIRS.
+## Activity (categorical variable):
+Describes  activity was doing the subject when the measure was taken. The activities are the following: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS and WALKING_UPSTAIRS.
 
-## Subject_ID (integer variable):## there were 30 subjects, each subject an unique ID number between 1 and 30.
+## Subject_ID (integer variable):
+There were 30 subjects, each subject an unique ID number between 1 and 30.
 
 ## Average_Time_Dom_BodyAcc_mean_X (numeric variable)
 Takes values between -1 and 1. It’s the average of the tBodyAcc-mean()-X variable of the original data set. 
@@ -290,4 +292,5 @@ Takes values between -1 and 1. It’s the average of the angle(Y,gravityMean) va
 
 Takes values between -1 and 1. It’s the average of the angle(Z,gravityMean) variable of the original data set.
 
-# For detailed information about the original variable, check the README.txt file of the original data zip file.
+
+For detailed information about the original variable, check the README.txt file of the original data zip file.
